@@ -9,6 +9,9 @@ The exporter will listen on localhost:3225, Scrape this in your Prometheus.
 To run the Exporter as a Service use the teslawallbox-exporter.service File.
 
 
+Docker Image available:
+https://hub.docker.com/r/fynnsh/twc-exporter
+
 
 Dashboard in Grafana:
 
